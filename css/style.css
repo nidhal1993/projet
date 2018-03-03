@@ -1,0 +1,37 @@
+li{
+	color: red;
+
+}
+#param1 {
+	color: green;
+}
+.actor {
+	background-color: lightgray;
+}
+body {
+	background-image: url("../resources/img4.jpg");
+}
+.actor:hover{
+	color: blue;
+}
+#aja{
+	color: black;
+}
+.actor:active{
+	background-color: lightblue;
+}
+.actor{
+	display: block;
+}
+h1{
+	border-radius: 15%;
+	background-size: 100px 80px;
+	font-family: serif;
+	font-style: italic;
+	font-size: 300%;
+	outline-style: groove;
+	background-color: lightblue;
+	padding: 1%;
+	border: 2%;
+	margin: 2%;
+}
